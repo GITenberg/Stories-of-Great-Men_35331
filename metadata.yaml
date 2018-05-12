@@ -1,0 +1,40 @@
+_repo: Stories-of-Great-Men_35331
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huntington, Faye
+    aliases:
+    - Foster, Theodosia Maria Toll
+    - Aunt Penn
+    - Penn, Aunt
+    - Toll, Theodosia Maria
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '37602'
+    url: http://www.gutenberg.org/2009/agents/37602
+description: ''
+gutenberg_issued: '2011-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35331'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Juvenile literature'
+- !lcsh 'Inventors -- Juvenile literature'
+- !lcsh 'Kings and rulers -- Juvenile literature'
+- !lcc 'CT'
+tableOfContents: Alexander the Great -- Addison, Joseph -- Agassiz, Louis John Rudolph
+  -- Bacon, Francis -- Caesar, Caius Julius -- Disraeli, Benjamin -- Everett, Edward
+  -- Farragut, David Glasgow -- Gordon, Charles George -- Hannibal -- Irving, Washington
+  -- Judson, Adoniram -- Knox, John -- Lincoln, Abraham -- Morse, Samuel Finley Breese
+  -- Newton, Sir Isaac -- Obookiah, Henry -- Penn, William -- Quincy, Josiah -- Rush,
+  Benjamin -- Savonarola, Girolamo -- Tennyson, Alfred -- Ulfila -- Vincent, Rev.
+  John H., D.D. -- Webster, Daniel -- Xenophon.
+title: Stories of Great Men
+url: http://www.gutenberg.org/ebooks/35331
